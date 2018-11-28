@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mv -v ../NetDissect-Lite/result/* /results
